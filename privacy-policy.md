@@ -1,4 +1,8 @@
-# Privacy Policy
+---
+layout: page
+title: Privacy Policy
+permalink: /cv/
+---
 
 Evgeniy Mamchenko built the Pocket AutoML app as an Ad Supported app. This SERVICE is provided by Evgeniy Mamchenko at no cost and is intended for use as is.
 
