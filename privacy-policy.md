@@ -18,6 +18,10 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Even though the app requires access to the camera and the device storage it only saves photos you made within the app on your device and never uploads your photos anywhere.
 
+## TF Lite Export
+
+Unlike most of the app functions, TF Lite Export performs a conversion of your model on a server and thus requires an internet connection. It only uploads the name of the task, the names of its classes and the weights of a model (an array of floating point numbers) on a server.
+
 ## Information Collection and Use
 
 For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
